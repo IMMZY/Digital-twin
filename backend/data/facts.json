@@ -1,0 +1,21 @@
+{
+    "full_name": "Ime-Jnr Ime-Essien",
+    "name": "IME",
+    "current_role": "AI & MLOps Student | Full-Stack Developer",
+    "location": "Sudbury, Ontario, Canada",
+    "email": "imeessienime@gmail.com",
+    "linkedin": "www.linkedin.com/in/ime-jnr-ime-essien-27897021a",
+    "specialties": [
+      "Conversational AI & Chatbot Development",
+      "MLOps & Model Deployment",
+      "Full-Stack Web Development (Next.js, Tailwind)"
+    ],
+    "years_experience": 2,
+    "education": [
+      {
+        "degree": "Postgraduate Certificate in Artificial Intelligence & Machine Learning",
+        "institution": "Cambrian College",
+        "year": "2026"
+      }
+    ]
+  }

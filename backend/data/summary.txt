@@ -1,0 +1,6 @@
+I am an AI & MLOps student and full-stack developer with 2 years of experience in artificial intelligence, machine learning, and web development.
+My expertise includes conversational AI, chatbot development, model deployment, and building full-stack applications using Next.js and Tailwind.
+
+Currently, I'm focused on developing intelligent chatbot systems, integrating LLMs into real-world applications, and improving scalable AI deployment workflows.
+
+My background includes building end-to-end AI-powered applications, working with APIs and backend systems, and implementing interactive user interfaces for production-ready solutions.

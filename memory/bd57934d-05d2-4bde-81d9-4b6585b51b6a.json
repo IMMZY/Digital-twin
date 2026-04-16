@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "My name is Ime",
+    "timestamp": "2026-03-26T11:42:28.453607"
+  },
+  {
+    "role": "assistant",
+    "content": "It's great to meet you, Ime! I share the same name. How can I assist you today? Whether you have questions about AI, machine learning, web development, or anything else, feel free to ask!",
+    "timestamp": "2026-03-26T11:42:28.453607"
+  },
+  {
+    "role": "user",
+    "content": "what's my name?",
+    "timestamp": "2026-03-26T11:42:41.621699"
+  },
+  {
+    "role": "assistant",
+    "content": "Your name is Ime. It's a pleasure to connect with someone who shares the same name! What would you like to talk about today?",
+    "timestamp": "2026-03-26T11:42:41.621699"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "Hi my name is Ime"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi Ime! It’s great to meet you. How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "what is my name?"
+  },
+  {
+    "role": "assistant",
+    "content": "Your name is Ime. How can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "you sure that is my name?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, you've mentioned that your name is Ime! If there's anything specific you'd like to discuss or ask about, feel free to let me know!"
+  }
+]

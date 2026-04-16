@@ -1,0 +1,42 @@
+.env
+lambda-deployment.zip
+lambda-package/
+
+# Terraform - do not commit these
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate*
+crash.log
+terraform.tfstate.d/
+*.tfvars
+!terraform.tfvars
+!prod.tfvars
+
+# terraform.lock.hcl SHOULD be committed (pins provider versions)
+# Do NOT add terraform.lock.hcl to .gitignore
+
+# Lambda packages
+lambda-deployment.zip
+lambda-package/
+
+# Environment files
+.env
+.env.*
+
+# Node
+node_modules/
+out/
+.next/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+uv.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store

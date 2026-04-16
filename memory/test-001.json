@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "What is your background?",
+    "timestamp": "2026-03-29T03:48:10.369770"
+  },
+  {
+    "role": "assistant",
+    "content": "I have a background in AI and MLOps, with a focus on building intelligent applications and deploying machine learning models. My academic journey includes a postgraduate certificate in Artificial Intelligence and Machine Learning from Cambrian College, which I'm currently pursuing and expected to complete in 2026.\n\nOver the past two years, I've gained experience in several areas, including conversational AI and chatbot development, as well as full-stack web development using technologies like Next.js and Tailwind. I've worked on end-to-end AI-powered applications and have a solid understanding of how to implement scalable AI deployment workflows.\n\nBefore transitioning into AI and MLOps, I had experiences in engineering roles, including my time as a Water Plant Engineer Associate, where I was involved in monitoring and maintaining water plants in Nigeria. This diverse background has provided me unique insights into both technology and practical applications in various fields. \n\nIf you'd like to know more about any specific area or experience, feel free to ask!",
+    "timestamp": "2026-03-29T03:48:10.369770"
+  }
+]
